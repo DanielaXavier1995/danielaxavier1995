@@ -10,12 +10,13 @@ Me chamo Daniela Xavier, uma Engenheira Civil apaixonada pelo mundo da tecnologi
 * Acredita que viajar é necessário ✈
 
 ## Quais as suas principais habilidades? 🚀
-* Linguagens:
-* Frameworks/Tecnologias:
-* Banco de Dados:
-* Ambientes de Desenvolvimento (IDEs):
-* Ferramentas de versionamento:
-* Metodologias:
+* Linguagens: Java e JavaScript;
+* Frameworks/Tecnologias: SpringBoot, Hibernate, Node.js, Express.js, Maven, JUnit, JWT; 
+* Banco de Dados: MySQL, Oracle, PostgreSQL;
+* Ambientes de Desenvolvimento (IDEs): IntelliJ IDEA, Eclipse, Visual Studio Code;
+* Ferramentas de versionamento: Git & GitHub;
+* Metodologias: Scrum e Kanban;
+  
 
 <div>
 <a href="https://github.com/danielaxavier1995">
