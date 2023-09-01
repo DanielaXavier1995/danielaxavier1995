@@ -1,6 +1,6 @@
 # Hello Everyone 👋🌼👩‍💻
 
-Me chamo Daniela Xavier, uma Engenheira Civil apaixonada munda da tecnologia em busca da sua tão sonhada transição de carreira! ✨
+Me chamo Daniela Xavier, uma Engenheira Civil apaixonada pelo mundo da tecnologia, em busca da sua tão sonhada transição de carreira! ✨
 
 ## Quem é Daniela?
 * Pernambucana com todo meu orgulho 💖
