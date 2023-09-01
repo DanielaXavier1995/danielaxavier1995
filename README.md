@@ -10,18 +10,34 @@ Me chamo Daniela Xavier, uma Engenheira Civil apaixonada pelo mundo da tecnologi
 * Acredita que viajar é necessário ✈
 
 ## Quais as suas principais habilidades? 🚀
-* Linguagens: Java e JavaScript;
-* Frameworks/Tecnologias: SpringBoot, Hibernate, Node.js, Express.js, Maven, JUnit, JWT; 
+* Linguagens: Java e JavaScript;      
+* Frameworks/Tecnologias: SpringBoot, Hibernate, Node.js, Express.js, Maven, JUnit, JWT;      
 * Banco de Dados: MySQL, Oracle, PostgreSQL;
 * Ambientes de Desenvolvimento (IDEs): IntelliJ IDEA, Eclipse, Visual Studio Code;
 * Ferramentas de versionamento: Git & GitHub;
 * Metodologias: Scrum e Kanban;
-  
+
 
 <div>
 <a href="https://github.com/danielaxavier1995">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaxavier1995&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaxavier1995&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>   
+
 </div>
 
 ## Conecte-se comigo: 
