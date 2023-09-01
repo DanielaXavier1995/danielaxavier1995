@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello Everyone 👋🌼👩‍💻
 
-<!--
-**DanielaXavier1995/danielaxavier1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Daniela Xavier, uma Engenheira Civil apaixonada munda da tecnologia em busca da sua tão sonhada transição de carreira! ✨
 
-Here are some ideas to get you started:
+## Quem é Daniela?
+* Pernambucana com todo meu orgulho 💖
+* Católica ✝
+* Apaixonada pela família 💏
+* Ama gatos 🐾 e séries 📺 e tudo junto 😍
+* Acredita que viajar é necessário ✈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quais as suas principais habilidades? 🚀
+* Linguagens:
+* Frameworks/Tecnologias:
+* Banco de Dados:
+* Ambientes de Desenvolvimento (IDEs):
+* Ferramentas de versionamento:
+* Metodologias:
+
+<div>
+<a href="https://github.com/danielaxavier1995">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaxavier1995&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaxavier1995&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Conecte-se comigo: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/dani-xavier/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/DanielaXavier#0328/)
+
