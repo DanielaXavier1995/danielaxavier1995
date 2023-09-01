@@ -4,6 +4,7 @@ Me chamo Daniela Xavier, uma Engenheira Civil apaixonada pelo mundo da tecnologi
 
 ## Quem é Daniela?
 * Pernambucana com todo meu orgulho 💖
+* Mulher arretada 💁🏽‍♀️
 * Católica ✝
 * Apaixonada pela família 💏
 * Ama gatos 🐾 e séries 📺 e tudo junto 😍
