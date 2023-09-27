@@ -8,7 +8,6 @@ Me chamo Daniela Xavier, uma Engenheira Civil apaixonada pelo mundo da tecnologi
 * Católica ✝
 * Apaixonada pela família 💏
 * Ama gatos 🐾 e séries 📺 e tudo junto 😍
-* Acredita que viajar é necessário ✈
 
 ## Quais as suas principais habilidades? 🚀
 * Linguagens: Java e JavaScript;      
